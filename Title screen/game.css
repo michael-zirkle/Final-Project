@@ -1,0 +1,11 @@
+
+      @font-face {
+        font-family: font1;
+        src: url('assets/fonts/c_t.ttf');
+        font-weight:400;
+        font-weight:bold;
+        font-size:500px;
+        font-style:oblique;
+        stroke: black;
+        
+      }
